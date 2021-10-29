@@ -7,7 +7,7 @@ Dino game feito durante o desafio da [Digital Innovation One](https://digitalinn
   - JavaScript puro
 
 ## Configurando ferramenta
-  Fiz um vídeo explicando o passo para configurar o ambiente e conseguir rodar. <a href="https://youtu.be/EFm2Vrmbz4A" target="_blank">Vídeo configurando a ferramenta</a>.
+  Fiz um vídeo explicando o passo a passo para configurar o ambiente e conseguir rodar. <a href="https://youtu.be/EFm2Vrmbz4A" target="_blank">Vídeo configurando a ferramenta</a>.
 
 ## Para rodar
   1. Baixe o código ou clone-o do repositório.
