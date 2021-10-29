@@ -11,7 +11,7 @@ Dino game feito durante o desafio da [Digital Innovation One](https://digitalinn
 
 ## Para rodar
   1. Baixe o código ou clone-o do repositório.
-  2. Como sugestão para abertura de código você pode utilizar o <a href="https://code.visualstudio.com/" target="_blank">https://code.visualstudio.com/</a>.
+  2. Como sugestão para abertura de código você pode utilizar o <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.
   3. Não é necessáriamente obrigatório, mas se perferir você pode baixar a extensão Live Server.
   4. Ao iniciar o um servidor Live Server basta digitar no navegador **localhost:5500**.
   5. Pronto seu jogo está pronto para ser jogado.
